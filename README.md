@@ -15,3 +15,8 @@ Repository, n.d.). Credits to original creators of dataset;Tanvir Ahmad, Assia M
 Bhatti, Muhammad Aftab, and Muhammad Ali Raza (Government College University, Faisalabad, 
 Pakistan).
 Link : https://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records
+
+1. File  name ML_T1_KNN uses K neighbours classifier algorithm from sklearn.Neighbors library
+2. File name DureSabih_T1_Heart uses Logistic Regression
+
+------ACCURACY SCORE FOR LOGISTIC REGGRESSION IS BETTER THAN THAT OF K neighbors classifier.
